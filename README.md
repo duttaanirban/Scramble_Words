@@ -1,5 +1,3 @@
-Here’s a simple yet informative **README** file for your Word Scramble Game project, covering setup instructions, features, and usage.
-
 ---
 
 # **Word Scramble Game**
