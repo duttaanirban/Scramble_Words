@@ -86,5 +86,3 @@ Contributions are welcome! If you have any improvements or suggestions, feel fre
    ```
 5. Open a pull request.
 ---
-
-This **README** file should give users a clear understanding of the game, how to install and run it, and how they can contribute. You can adapt the file to include additional details or setup instructions depending on how the game evolves.
