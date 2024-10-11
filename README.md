@@ -35,12 +35,12 @@ Follow these instructions to set up the game on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/word-scramble-game.git
+   https://github.com/duttaanirban/Scramble_Words.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd word-scramble-game
+   cd Scramble_Words
    ```
 
 3. **Open the game**:
